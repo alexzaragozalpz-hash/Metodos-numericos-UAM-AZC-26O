@@ -1,1 +1,2 @@
-# Este es mi primer commit the curso Métodos Numéricos 
+# Métodos Numéricos 1151039
+Este es el archivo README del repositorio
