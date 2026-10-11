@@ -1,1 +1,1 @@
-__ ##### Tarea 1 Métodos Númericos __
+##### Tarea 1 Métodos Númericos
